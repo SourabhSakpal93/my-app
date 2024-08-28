@@ -13,6 +13,7 @@ function App() {
           <Row>
             <Col className='col-12  text-center py-4'>
               <h1>Our Courses</h1>
+              <h1>Our Courses</h1>
             </Col>
           </Row>
           <Row>
